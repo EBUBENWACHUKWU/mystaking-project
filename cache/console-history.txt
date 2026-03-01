@@ -1,0 +1,10 @@
+.help
+help
+.help
+help
+npx hardhat compile
+await staking.stake({ value: ethers.parseEther("1") })
+const staking = await Staking.attach("0x5FbDB2315678afecb367f032d93F642f64180aa3");
+const Staking = await ethers.getContractFactory("Staking");
+.exit
+const Staking = await ethers.getContractFactory("Staking");
